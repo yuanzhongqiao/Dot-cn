@@ -1,95 +1,80 @@
-<p align="center">
-  <img src="https://github.com/alexpinel/Dot/assets/93524949/9ab51fa9-3471-427f-b932-c001bac35346" alt="Dot App Banner">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/93524949/323697469-9ab51fa9-3471-427f-b932-c001bac35346.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc1MTA3ODIsIm5iZiI6MTcxNzUxMDQ4MiwicGF0aCI6Ii85MzUyNDk0OS8zMjM2OTc0NjktOWFiNTFmYTktMzQ3MS00MjdmLWI5MzItYzAwMWJhYzM1MzQ2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA0VDE0MTQ0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiZmI2MTdjMTM1MmI2YWFlZjZkYzk0Nzg0OWEwMWRhMmYwOGRmMjlhNjVlZDg1MzczNWNhZmVmN2FkZTdjNjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._PBPR7zXA9H1Hb6LAi1n0A4UWAR7ibtT5f_tTJEnIas"><img src="https://private-user-images.githubusercontent.com/93524949/323697469-9ab51fa9-3471-427f-b932-c001bac35346.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc1MTA3ODIsIm5iZiI6MTcxNzUxMDQ4MiwicGF0aCI6Ii85MzUyNDk0OS8zMjM2OTc0NjktOWFiNTFmYTktMzQ3MS00MjdmLWI5MzItYzAwMWJhYzM1MzQ2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA0VDE0MTQ0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiZmI2MTdjMTM1MmI2YWFlZjZkYzk0Nzg0OWEwMWRhMmYwOGRmMjlhNjVlZDg1MzczNWNhZmVmN2FkZTdjNjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._PBPR7zXA9H1Hb6LAi1n0A4UWAR7ibtT5f_tTJEnIas" alt="点应用横幅" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/license-GPL3.0-brightgreen.svg?style=flat-square" alt="License">
-  <img src="https://img.shields.io/github/v/release/alexpinel/Dot?style=flat-square" alt="GitHub release (latest by date)">
-  <img src="https://img.shields.io/github/commits-since/alexpinel/Dot/latest.svg?style=flat-square" alt="GitHub commits">
-  <img src="https://img.shields.io/github/stars/alexpinel/Dot.svg?style=social&label=Star&style=flat-square" alt="GitHub stars">
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f2d4888c7a425722e8562f6dd1bc6b277528f941dafae67caf71121c01630500/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d47504c332e302d627269676874677265656e2e7376673f7374796c653d666c61742d737175617265"><img src="https://camo.githubusercontent.com/f2d4888c7a425722e8562f6dd1bc6b277528f941dafae67caf71121c01630500/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d47504c332e302d627269676874677265656e2e7376673f7374796c653d666c61742d737175617265" alt="执照" data-canonical-src="https://img.shields.io/badge/license-GPL3.0-brightgreen.svg?style=flat-square" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5c80adfb0add6e8ed94bb766825a298fcf27aad2b8a6410a4c94025fb8b447e0/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f616c657870696e656c2f446f743f7374796c653d666c61742d737175617265"><img src="https://camo.githubusercontent.com/5c80adfb0add6e8ed94bb766825a298fcf27aad2b8a6410a4c94025fb8b447e0/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f616c657870696e656c2f446f743f7374796c653d666c61742d737175617265" alt="GitHub 版本（按日期排序）" data-canonical-src="https://img.shields.io/github/v/release/alexpinel/Dot?style=flat-square" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d97ca684512db6bc7991c17be885521937eaf127a16075514864257a2abea828/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6d6d6974732d73696e63652f616c657870696e656c2f446f742f6c61746573742e7376673f7374796c653d666c61742d737175617265"><img src="https://camo.githubusercontent.com/d97ca684512db6bc7991c17be885521937eaf127a16075514864257a2abea828/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6d6d6974732d73696e63652f616c657870696e656c2f446f742f6c61746573742e7376673f7374796c653d666c61742d737175617265" alt="GitHub 提交" data-canonical-src="https://img.shields.io/github/commits-since/alexpinel/Dot/latest.svg?style=flat-square" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8bcbda969eaab8b369d8186a3c921916ea40114162a6a8f09ed38b330ff1c1d5/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f616c657870696e656c2f446f742e7376673f7374796c653d736f6369616c266c6162656c3d53746172267374796c653d666c61742d737175617265"><img src="https://camo.githubusercontent.com/8bcbda969eaab8b369d8186a3c921916ea40114162a6a8f09ed38b330ff1c1d5/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f616c657870696e656c2f446f742e7376673f7374796c653d736f6369616c266c6162656c3d53746172267374796c653d666c61742d737175617265" alt="GitHub 星星" data-canonical-src="https://img.shields.io/github/stars/alexpinel/Dot.svg?style=social&amp;label=Star&amp;style=flat-square" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-  <strong><a href="https://dotapp.uk/">Visit the Dot Website</a></strong>
+<p align="center" dir="auto">
+  <strong><a href="https://dotapp.uk/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">访问 Dot 网站</font></font></a></strong>
 </p>
+<hr>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">重要提示：语音输入仅支持 MacOS，很快将添加 Windows 支持！</font></font></h2><a id="user-content-important-note-voice-input-is-only-supported-for-macos-windows-support-will-be-added-soon" class="anchor" aria-label="永久链接：重要提示：语音输入仅支持 MacOS，很快将添加 Windows 支持！" href="#important-note-voice-input-is-only-supported-for-macos-windows-support-will-be-added-soon"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚀 关于 Dot</font></font></h2><a id="user-content--about-dot" class="anchor" aria-label="永久链接：🚀 关于 Dot" href="#-about-dot"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dot 是一款独立的开源应用程序，旨在使用本地 LLM 和检索增强生成 (RAG) 与文档和文件进行无缝交互。它受到 Nvidia Chat with RTX 等解决方案的启发，为没有编程背景的人提供了用户友好的界面。默认情况下，Dot 使用 Phi-3 LLM，确保开箱即用的可访问性和简单性。</font></font></p>
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video">
+    <path d="M16 3.75v8.5a.75.75 0 0 1-1.136.643L11 10.575v.675A1.75 1.75 0 0 1 9.25 13h-7.5A1.75 1.75 0 0 1 0 11.25v-6.5C0 3.784.784 3 1.75 3h7.5c.966 0 1.75.784 1.75 1.75v.675l3.864-2.318A.75.75 0 0 1 16 3.75Zm-6.5 1a.25.25 0 0 0-.25-.25h-7.5a.25.25 0 0 0-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-6.5ZM11 8.825l3.5 2.1v-5.85l-3.5 2.1Z"></path>
+</svg>
+    <span aria-label="视频说明 Screen.Recording.2024-05-20.at.20.27.52.2.mp4" class="m-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">屏幕.录制.2024-05-20.at.20.27.52.2.mp4</font></font></span>
+    <span class="dropdown-caret"></span>
+  </summary>
 
----
+  <video src="https://private-user-images.githubusercontent.com/93524949/332192248-28b26128-7bdc-4bf7-99f3-d09bd8431875.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc1MTA3ODIsIm5iZiI6MTcxNzUxMDQ4MiwicGF0aCI6Ii85MzUyNDk0OS8zMzIxOTIyNDgtMjhiMjYxMjgtN2JkYy00YmY3LTk5ZjMtZDA5YmQ4NDMxODc1Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA0VDE0MTQ0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY3MzBjMTc1N2RhODU1ZDIxM2UzN2JkODE4YjYxMDdmNjIzNDhiZjBlYTQ0NjE0NjQyMzU5YmRlNGU3ZmQ3MjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.GakuG3-tHoDAtyDIn8xEyCAvbooGDr7y3XPLS-zw05U" data-canonical-src="https://private-user-images.githubusercontent.com/93524949/332192248-28b26128-7bdc-4bf7-99f3-d09bd8431875.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc1MTA3ODIsIm5iZiI6MTcxNzUxMDQ4MiwicGF0aCI6Ii85MzUyNDk0OS8zMzIxOTIyNDgtMjhiMjYxMjgtN2JkYy00YmY3LTk5ZjMtZDA5YmQ4NDMxODc1Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA0VDE0MTQ0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY3MzBjMTc1N2RhODU1ZDIxM2UzN2JkODE4YjYxMDdmNjIzNDhiZjBlYTQ0NjE0NjQyMzU5YmRlNGU3ZmQ3MjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.GakuG3-tHoDAtyDIn8xEyCAvbooGDr7y3XPLS-zw05U" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 
-## Important note: Voice input is only supported for MacOS, Windows support will be added soon!
+  </video>
+</details>
 
-## 🚀 About Dot
-
-Dot is a standalone, open-source application designed for seamless interaction with documents and files using local LLMs and Retrieval Augmented Generation (RAG). It is inspired by solutions like Nvidia's Chat with RTX, providing a user-friendly interface for those without a programming background. Using the Phi-3 LLM by default, Dot ensures accessibility and simplicity right out of the box.
-
-
-
-https://github.com/alexpinel/Dot/assets/93524949/28b26128-7bdc-4bf7-99f3-d09bd8431875
-
-
-
-
-### 📜 What does it do?
-
-Dot allows you to load multiple documents into an LLM and interact with them in a fully local environment. Supported document types include PDF, DOCX, PPTX, XLSX, and Markdown. Users can also engage with Big Dot for inquiries not directly related to their documents, similar to interacting with ChatGPT.
-
-### 🔧 How does it work?
-
-Built with Electron JS, Dot encapsulates a comprehensive Python environment that includes all necessary libraries. The application leverages libraries such as FAISS for creating local vector stores, Langchain, llama.cpp & Huggingface for setting up conversation chains, and additional tools for document management and interaction.
-
-## 📥 Install
-
-**To use Dot:**
-- Visit the [Dot website](https://dotapp.uk/) to download the application for Apple Silicon or Windows.
-
-**For developers:**
-- Clone the repository `$ https://github.com/alexpinel/Dot.git`
-- Install Node js and then run `npm install` inside the project repository, you can run `npm install --force` if you face any issues at this stage
-
-Now, it is time to add a full python bundle to the app. The purpose of this is to create a distributable environment with all necessary libraries, if you only plan on using Dot from the console you might not need to follow this particular step but then make sure to replace the python path locations specified in `src/index.js`. Creating the python bundle is covered in detail here: [https://til.simonwillison.net/electron/python-inside-electron](https://til.simonwillison.net/electron/python-inside-electron) , the bundles can also be installed from here: [https://github.com/indygreg/python-build-standalone/releases/tag/20240224](https://github.com/indygreg/python-build-standalone/releases/tag/20240224)
-
-Having created the bundle, please rename it to 'python' and place it inside the `llm` directory. It is now time to get all necessary libraries, keep in mind that running a simple `pip install` will not work without specifying the actual path of the bundle so use this instead: `path/to/python/.bin/or/.exe -m pip install` 
-
-Required python libraries:
-- pytorch [link](https://pytorch.org/get-started/locally/) (CPU version recommended as it is lighter than GPU)
-- langchain [link](https://python.langchain.com/docs/get_started/quickstart)
-- FAISS [link](https://python.langchain.com/docs/integrations/vectorstores/faiss)
-- HuggingFace [link](https://python.langchain.com/docs/integrations/platforms/huggingface)
-- llama.cpp [link](https://github.com/abetlen/llama-cpp-python) (Use CUDA implementation if you have an Nvidia GPU!)
-- pypdf [link](https://python.langchain.com/docs/modules/data_connection/document_loaders/pdf)
-- docx2txt [link](https://python.langchain.com/docs/integrations/document_loaders/microsoft_word)
-- Unstructured [link](https://github.com/Unstructured-IO/unstructured) (Use `pip install "unstructured[pptx, md, xlsx]` for the file formats)
-
-Now python should be setup and running! However, there is still a few more steps left, now is the time to add the final magic to Dot! First, create a folder inside the `llm` directory and name it `mpnet`, there you will need to install sentence-transformers to use for the document embeddings, fetch all the files from the following link and place them inside the new folder: [sentence-transformers/all-mpnet-base-v2](https://huggingface.co/sentence-transformers/all-mpnet-base-v2/tree/main)
-
-Finally, download the Mistral 7B LLM from the following link and place it inside the `llm/scripts` directory alongside the python scripts used by Dot: [TheBloke/Mistral-7B-Instruct-v0.2-GGUF](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/blob/main/mistral-7b-instruct-v0.2.Q4_K_M.gguf)
-
-That's it! If you follow these steps you should be able to get it all running, please let me know if you are facing any issues :)
-
-
-## 🌟 Future Features I'd Like to Add
-
-- Linux support
-- Choice of LLM - Done!
-- Image file support
-- Enhanced document awareness beyond content
-- Simplified file loading (select individual files, not just folders)
-- Increased security measures for using local LLMs
-- Support for additional document types
-- Efficient file database management for quicker access to groups of files
-
-## 🤝 Want to Help?
-
-Contributions are highly encouraged! As a student managing this project on the side, any help is greatly appreciated. Whether it's coding, documentation, or feature suggestions, please feel free to get involved!
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=alexpinel/dot&type=Date)](https://star-history.com/#alexpinel/dot&Date)
-
----
-
-<div align="center">
-  <strong><a href="#top">Back to top</a></strong>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📜它有什么作用？</font></font></h3><a id="user-content--what-does-it-do" class="anchor" aria-label="永久链接：📜 它有什么作用？" href="#-what-does-it-do"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dot 允许您将多个文档加载到 LLM 中，并在完全本地的环境中与它们交互。支持的文档类型包括 PDF、DOCX、PPTX、XLSX 和 Markdown。用户还可以与 Big Dot 互动，以进行与其文档不直接相关的查询，类似于与 ChatGPT 交互。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔧 它是如何工作的？</font></font></h3><a id="user-content--how-does-it-work" class="anchor" aria-label="永久链接：🔧 它是如何工作的？" href="#-how-does-it-work"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dot 是基于 Electron JS 构建的，它封装了一个包含所有必要库的综合 Python 环境。该应用程序利用 FAISS 等库来创建本地向量存储，利用 Langchain、llama.cpp 和 Huggingface 来设置对话链，并利用其他工具来管理文档和进行交互。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📥 安装</font></font></h2><a id="user-content--install" class="anchor" aria-label="固定链接：📥 安装" href="#-install"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要使用 Dot：</font></font></strong></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">访问</font></font><a href="https://dotapp.uk/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dot 网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载适用于 Apple Silicon 或 Windows 的应用程序。</font></font></li>
+</ul>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于开发人员：</font></font></strong></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">克隆存储库</font></font><code>$ https://github.com/alexpinel/Dot.git</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装 Node js，然后</font></font><code>npm install</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在项目存储库中运行，</font></font><code>npm install --force</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果在此阶段遇到任何问题，都可以运行</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现在，是时候向应用程序添加一个完整的 Python 包了。这样做的目的是创建一个包含所有必要库的可分发环境，如果你只打算从控制台使用 Dot，则可能不需要遵循此特定步骤，但请确保替换中指定的 Python 路径位置</font></font><code>src/index.js</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。此处详细介绍了如何创建 Python 包：</font></font><a href="https://til.simonwillison.net/electron/python-inside-electron" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://til.simonwillison.net/electron/python-inside-electron</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，也可以从此处安装包：</font></font><a href="https://github.com/indygreg/python-build-standalone/releases/tag/20240224"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/indygreg/python-build-standalone/releases/tag/20240224</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创建包后，请将其重命名为“python”并将其放在目录中</font></font><code>llm</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。现在是时候获取所有必要的库了，请记住，</font></font><code>pip install</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果不指定包的实际路径，运行简单包将不起作用，因此请使用以下命令：</font></font><code>path/to/python/.bin/or/.exe -m pip install</code></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">所需的 Python 库：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pytorch</font></font><a href="https://pytorch.org/get-started/locally/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">链接</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（推荐使用 CPU 版本，因为它比 GPU 更轻）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">langchain</font></font><a href="https://python.langchain.com/docs/get_started/quickstart" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">链接</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FAISS</font></font><a href="https://python.langchain.com/docs/integrations/vectorstores/faiss" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">链接</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HuggingFace</font></font><a href="https://python.langchain.com/docs/integrations/platforms/huggingface" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">链接</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">llama.cpp</font></font><a href="https://github.com/abetlen/llama-cpp-python"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">链接</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（如果您有 Nvidia GPU，请使用 CUDA 实现！）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pypdf</font></font><a href="https://python.langchain.com/docs/modules/data_connection/document_loaders/pdf" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">链接</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">docx2txt</font></font><a href="https://python.langchain.com/docs/integrations/document_loaders/microsoft_word" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">链接</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">非结构化</font></font><a href="https://github.com/Unstructured-IO/unstructured"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">链接</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><code>pip install "unstructured[pptx, md, xlsx]</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于文件格式）</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现在 python 应该已经设置好并运行了！不过，还有几个步骤，现在是时候为 Dot 添加最后的魔法了！首先，在目录中创建一个文件夹</font></font><code>llm</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并将其命名为</font></font><code>mpnet</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，在那里你需要安装 sentence-transformers 以用于文档嵌入，从以下链接获取所有文件并将它们放在新文件夹中：</font></font><a href="https://huggingface.co/sentence-transformers/all-mpnet-base-v2/tree/main" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sentence-transformers/all-mpnet-base-v2</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最后，从以下链接下载 Mistral 7B LLM，并将其放在</font></font><code>llm/scripts</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dot 使用的 Python 脚本目录中：</font></font><a href="https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/blob/main/mistral-7b-instruct-v0.2.Q4_K_M.gguf" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TheBloke/Mistral-7B-Instruct-v0.2-GGUF</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">就是这样！如果你按照这些步骤操作，你应该能够让一切运行起来，如果你遇到任何问题，请告诉我 :)</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌟 未来我想添加的功能</font></font></h2><a id="user-content--future-features-id-like-to-add" class="anchor" aria-label="永久链接：🌟 未来我想添加的功能" href="#-future-features-id-like-to-add"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Linux 支持</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">选择法学硕士 (LLM)——完成！</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图像文件支持</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">增强对内容之外的文档的认识</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">简化文件加载（选择单个文件，而不仅仅是文件夹）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加强使用本地法学硕士的安全措施</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持其他文档类型</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高效的文件数据库管理，可更快地访问文件组</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤝 想帮忙吗？</font></font></h2><a id="user-content--want-to-help" class="anchor" aria-label="永久链接：🤝想帮忙吗？" href="#-want-to-help"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">强烈鼓励大家做出贡献！作为一名兼职管理这个项目的学生，任何帮助都会得到极大的赞赏。无论是编码、文档还是功能建议，请随时参与！</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">星历史</font></font></h2><a id="user-content-star-history" class="anchor" aria-label="永久链接：明星历史" href="#star-history"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://star-history.com/#alexpinel/dot&amp;Date" rel="nofollow"><img src="https://camo.githubusercontent.com/090bf359af6ba6f418c5714ad7262871b165ca3f300b60cc95bcf9967a0944b2/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d616c657870696e656c2f646f7426747970653d44617465" alt="星历史图" data-canonical-src="https://api.star-history.com/svg?repos=alexpinel/dot&amp;type=Date" style="max-width: 100%;"></a></p>
+<hr>
+<div align="center" dir="auto">
+  <strong><a href="#top"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">回到顶部</font></font></a></strong>
 </div>
-
-
-
+</article></div>
